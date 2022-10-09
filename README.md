@@ -5,8 +5,4 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-
-<!---
-aarusharora/aarusharora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- The weather for Toronto is Clouds ![](https://openweathermap.org/img/wn/04n.png) with temperature from 12.45℃ - 15.12℃
