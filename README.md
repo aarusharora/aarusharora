@@ -5,4 +5,4 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Toronto is Clouds ![](https://openweathermap.org/img/wn/04n.png) with temperature from 12.45℃ - 15.12℃
+- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04n.png) with temperature from 11.32℃ - 13.12℃
