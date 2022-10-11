@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Clear ![](https://openweathermap.org/img/wn/01d.png) with temperature from 21.01℃ - 23.74℃
-- Quote of the day: 
-		"To be alive - is Power."
-				- Emily Dickinson
+- The weather for Waterloo is Clear ![](https://openweathermap.org/img/wn/01d.png) with temperature from 21.01℃ - 22.98℃
+> Quote of the day: 
+	&emsp;"To be alive - is Power."
+	&emsp;&emsp;- Emily Dickinson
