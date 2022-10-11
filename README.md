@@ -5,4 +5,4 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Clear ![](https://openweathermap.org/img/wn/01d.png) with temperature from 7.98℃ - 10.5℃
+- The weather for Waterloo is Clear ![](https://openweathermap.org/img/wn/01d.png) with temperature from 5.99℃ - 14.38℃
