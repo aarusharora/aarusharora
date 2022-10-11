@@ -6,6 +6,6 @@
 
 The following information is updated daily through the power of software engineering ->
 - The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/02d.png) with temperature from 20.46℃ - 23.19℃
-> Quote of the day:  
-	&emsp;"To be alive - is Power."  
-	&emsp;&emsp;- Emily Dickinson
+- Quote of the day:  
+	> "To be alive - is Power."  
+	> &emsp;&emsp;&emsp;&emsp;- Emily Dickinson
