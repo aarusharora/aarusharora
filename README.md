@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/02d.png) with temperature from 20.46℃ - 23.19℃
+- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/03d.png) with temperature from 13.32℃ - 14.85℃
 - Quote of the day:  
-	> "To be alive - is Power."  
-	> &emsp;&emsp;&emsp;&emsp;- Emily Dickinson
+	> "Happiness is only real, when shared."  
+	> &emsp;&emsp;&emsp;&emsp;- Christopher McCandless
