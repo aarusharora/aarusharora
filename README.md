@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from 4.32℃ - 6.61℃
+- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from 7.68℃ - 9.3℃
 - Quote of the day:  
-	> "When it is dark enough, you can see the stars."  
-	> &emsp;&emsp;&emsp;&emsp;- Ralph Waldo Emerson
+	> "Life is trying things to see if they work."  
+	> &emsp;&emsp;&emsp;&emsp;- Ray Bradbury
