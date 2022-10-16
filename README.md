@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from 7.68℃ - 9.3℃
+- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from 5.45℃ - 7.68℃
 - Quote of the day:  
-	> "Life is trying things to see if they work."  
-	> &emsp;&emsp;&emsp;&emsp;- Ray Bradbury
+	> "Desire is suffering."  
+	> &emsp;&emsp;&emsp;&emsp;- Naval Ravikant
