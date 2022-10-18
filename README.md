@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from 5.32℃ - 7.01℃
+- The weather for Waterloo is Rain ![](https://openweathermap.org/img/wn/10d.png) with temperature from 2.58℃ - 4.3℃
 - Quote of the day:  
-	> "Excellence is not a skill. It is an attitude. "  
-	> &emsp;&emsp;&emsp;&emsp;- Ralph Marston
+	> "Forgive those who have hurt you."  
+	> &emsp;&emsp;&emsp;&emsp;- Les Brown
