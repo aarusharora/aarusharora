@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from 2.12℃ - 4.3℃
+- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from 1.98℃ - 4.15℃
 - Quote of the day:  
-	> "Whatever you do,strive to do it so well that no man living and no man dead and no man yet to be born could do it any better."  
-	> &emsp;&emsp;&emsp;&emsp;- Benjamin Mays
+	> "If you're waiting until you feel talented enough to make it, you'll never make it."  
+	> &emsp;&emsp;&emsp;&emsp;- Criss Jami
