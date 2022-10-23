@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/02d.png) with temperature from 11.01℃ - 13.14℃
+- The weather for Waterloo is Clear ![](https://openweathermap.org/img/wn/01d.png) with temperature from 9.98℃ - 12.72℃
 - Quote of the day:  
-	> "Where there is no struggle, there is no strength. "  
-	> &emsp;&emsp;&emsp;&emsp;- Oprah Winfrey
+	> "Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. "  
+	> &emsp;&emsp;&emsp;&emsp;- Jack London
