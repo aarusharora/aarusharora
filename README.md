@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Clear ![](https://openweathermap.org/img/wn/01d.png) with temperature from 9.98℃ - 12.72℃
+- The weather for Waterloo is Mist ![](https://openweathermap.org/img/wn/50d.png) with temperature from 7.98℃ - 12.58℃
 - Quote of the day:  
-	> "Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. "  
-	> &emsp;&emsp;&emsp;&emsp;- Jack London
+	> "Greatest success comes just one step beyond the point at which defeat overtakes you."  
+	> &emsp;&emsp;&emsp;&emsp;- Unknown
