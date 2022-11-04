@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Fog ![](https://openweathermap.org/img/wn/50d.png) with temperature from 4.32℃ - 5.98℃
+- The weather for Waterloo is Mist ![](https://openweathermap.org/img/wn/50d.png) with temperature from 8.32℃ - 14.3℃
 - Quote of the day:  
-	> "The purpose of life is the life of purpose."  
-	> &emsp;&emsp;&emsp;&emsp;- Robin Sharma
+	> "Never let the fear of striking out keep you from playing the game."  
+	> &emsp;&emsp;&emsp;&emsp;- Babe Ruth
