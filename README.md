@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Clear ![](https://openweathermap.org/img/wn/01d.png) with temperature from -0.02℃ - 3.16℃
+- The weather for Waterloo is Clear ![](https://openweathermap.org/img/wn/01d.png) with temperature from 1.98℃ - 4.25℃
 - Quote of the day:  
-	> "It is indeed a radical act of love just to sit down and be quiet for a time by yourself."  
-	> &emsp;&emsp;&emsp;&emsp;- Jon Kabat-Zinn
+	> "It is what we make out of what we have, not what we are given, that separates one person from another."  
+	> &emsp;&emsp;&emsp;&emsp;- Nelson Mandela
