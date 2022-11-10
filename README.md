@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Clear ![](https://openweathermap.org/img/wn/01d.png) with temperature from 1.98℃ - 4.25℃
+- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/02d.png) with temperature from 9.98℃ - 12.58℃
 - Quote of the day:  
-	> "It is what we make out of what we have, not what we are given, that separates one person from another."  
-	> &emsp;&emsp;&emsp;&emsp;- Nelson Mandela
+	> "The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality."  
+	> &emsp;&emsp;&emsp;&emsp;- Brian Tracy
