@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from 6.98℃ - 11.05℃
+- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/02d.png) with temperature from 3.27℃ - 4.5℃
 - Quote of the day:  
-	> "A hopeless man is a very desperate and dangerous man, almost a dead man."  
-	> &emsp;&emsp;&emsp;&emsp;- Robert F. Kennedy
+	> "Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution."  
+	> &emsp;&emsp;&emsp;&emsp;- Kahlil Gibran
