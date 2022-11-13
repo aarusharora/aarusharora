@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/02d.png) with temperature from 3.27℃ - 4.5℃
+- The weather for Waterloo is Mist ![](https://openweathermap.org/img/wn/50d.png) with temperature from -0.66℃ - 0.32℃
 - Quote of the day:  
-	> "Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution."  
-	> &emsp;&emsp;&emsp;&emsp;- Kahlil Gibran
+	> "The best answer to anger is silence."  
+	> &emsp;&emsp;&emsp;&emsp;- Marcus Aurelius
