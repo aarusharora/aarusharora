@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Mist ![](https://openweathermap.org/img/wn/50d.png) with temperature from -0.66℃ - 0.32℃
+- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from -2.68℃ - -0.15℃
 - Quote of the day:  
-	> "The best answer to anger is silence."  
-	> &emsp;&emsp;&emsp;&emsp;- Marcus Aurelius
+	> "No man can get rich himself unless he enriches others."  
+	> &emsp;&emsp;&emsp;&emsp;- Earl Nightingale
