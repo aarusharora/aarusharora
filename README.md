@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from -2.68℃ - -0.15℃
+- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from -1.68℃ - -0.06℃
 - Quote of the day:  
-	> "No man can get rich himself unless he enriches others."  
-	> &emsp;&emsp;&emsp;&emsp;- Earl Nightingale
+	> "Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again."  
+	> &emsp;&emsp;&emsp;&emsp;- Og Mandino
