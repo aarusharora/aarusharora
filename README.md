@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from -1.68℃ - -0.06℃
+- The weather for Waterloo is Snow ![](https://openweathermap.org/img/wn/13d.png) with temperature from -3.02℃ - -1.21℃
 - Quote of the day:  
-	> "Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again."  
-	> &emsp;&emsp;&emsp;&emsp;- Og Mandino
+	> "Dream big. Start small. But most of all, start."  
+	> &emsp;&emsp;&emsp;&emsp;- Simon Sinek
