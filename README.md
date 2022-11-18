@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from -5.68℃ - -2.32℃
+- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from -3.02℃ - -1.36℃
 - Quote of the day:  
-	> "The power to make and break habits and learning how to do that is really important."  
-	> &emsp;&emsp;&emsp;&emsp;- Naval Ravikant
+	> "I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better."  
+	> &emsp;&emsp;&emsp;&emsp;- Elon Musk
