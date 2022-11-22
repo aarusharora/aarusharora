@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from -5.02℃ - 0.5℃
+- The weather for Waterloo is Clear ![](https://openweathermap.org/img/wn/01d.png) with temperature from -5.68℃ - -3.83℃
 - Quote of the day:  
-	> "We suffer more often in imagination than in reality.  "  
-	> &emsp;&emsp;&emsp;&emsp;- Seneca
+	> "It isn't that they can't see the solution. It is that they can't see the problem."  
+	> &emsp;&emsp;&emsp;&emsp;- Gilbert Chesterton
