@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from -3.02℃ - 2.16℃
+- The weather for Waterloo is Mist ![](https://openweathermap.org/img/wn/50d.png) with temperature from 3.16℃ - 4.23℃
 - Quote of the day:  
-	> "The Truth is realized in an instant; the Act is practiced step by step."  
-	> &emsp;&emsp;&emsp;&emsp;- Seungsahn
+	> "Before anything else, preparation is the key to success."  
+	> &emsp;&emsp;&emsp;&emsp;- Alexander Graham Bell
