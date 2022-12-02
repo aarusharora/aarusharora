@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from -4℃ - -3.03℃
+- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from -0.77℃ - -0.02℃
 - Quote of the day:  
-	> "You are not the drop in the ocean, but the ocean in the drop."  
-	> &emsp;&emsp;&emsp;&emsp;- Deepak Chopra
+	> "Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose."  
+	> &emsp;&emsp;&emsp;&emsp;- Steve Jobs
