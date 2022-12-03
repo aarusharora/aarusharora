@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from -0.77℃ - -0.02℃
+- The weather for Waterloo is Rain ![](https://openweathermap.org/img/wn/10d.png) with temperature from 8.19℃ - 9.23℃
 - Quote of the day:  
-	> "Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose."  
-	> &emsp;&emsp;&emsp;&emsp;- Steve Jobs
+	> "Believe in one thing too much and you have no room for new ideas.  "  
+	> &emsp;&emsp;&emsp;&emsp;- Ray Bradbury
