@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Rain ![](https://openweathermap.org/img/wn/10d.png) with temperature from 8.19℃ - 9.23℃
+- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from -6.21℃ - -4.03℃
 - Quote of the day:  
-	> "Believe in one thing too much and you have no room for new ideas.  "  
-	> &emsp;&emsp;&emsp;&emsp;- Ray Bradbury
+	> "Problems remain as problems because people are busy defending them rather than finding solutions."  
+	> &emsp;&emsp;&emsp;&emsp;- Celestine Chua
