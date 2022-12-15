@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Clear ![](https://openweathermap.org/img/wn/01d.png) with temperature from -7.02℃ - -5.06℃
+- The weather for Waterloo is Snow ![](https://openweathermap.org/img/wn/13d.png) with temperature from -1.36℃ - -0.68℃
 - Quote of the day:  
-	> "One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man."  
-	> &emsp;&emsp;&emsp;&emsp;- Elbert Hubbard
+	> "If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace."  
+	> &emsp;&emsp;&emsp;&emsp;- Dogen
