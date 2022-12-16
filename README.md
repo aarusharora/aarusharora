@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Snow ![](https://openweathermap.org/img/wn/13d.png) with temperature from -1.36℃ - -0.68℃
+- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from -0.1℃ - 0.97℃
 - Quote of the day:  
-	> "If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace."  
-	> &emsp;&emsp;&emsp;&emsp;- Dogen
+	> "Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself."  
+	> &emsp;&emsp;&emsp;&emsp;- Samuel Butler
