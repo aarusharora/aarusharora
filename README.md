@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from -4.66℃ - -3.69℃
+- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/02d.png) with temperature from -7.42℃ - -5.06℃
 - Quote of the day:  
-	> "Luck is a matter of preparation meeting opportunity."  
-	> &emsp;&emsp;&emsp;&emsp;- Oprah Winfrey
+	> "You'll get more from being a peacemaker than a warrior."  
+	> &emsp;&emsp;&emsp;&emsp;- Arnold Schwarzenegger
