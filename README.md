@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from 2.07℃ - 4.92℃
+- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from 8.14℃ - 9.94℃
 - Quote of the day:  
-	> "Don't let anyone define you. You define yourself."  
-	> &emsp;&emsp;&emsp;&emsp;- Billie Jean King
+	> "A Quitter never wins - and - a Winner never quits."  
+	> &emsp;&emsp;&emsp;&emsp;- Napoleon Hill
