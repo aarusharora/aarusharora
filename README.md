@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Rain ![](https://openweathermap.org/img/wn/10d.png) with temperature from 8.12℃ - 8.98℃
+- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from 0.94℃ - 1.46℃
 - Quote of the day:  
-	> "We have to live life with a sense of urgency so not a minute is wasted."  
-	> &emsp;&emsp;&emsp;&emsp;- Les Brown
+	> "You have to make time, even for something as universal as staring at the stars."  
+	> &emsp;&emsp;&emsp;&emsp;- W.P. Kinsella
