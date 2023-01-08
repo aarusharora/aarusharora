@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from -0.2℃ - 0.41℃
+- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/03d.png) with temperature from -6.06℃ - -4.55℃
 - Quote of the day:  
-	> "People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love."  
-	> &emsp;&emsp;&emsp;&emsp;- Dr. Seuss
+	> "To be prepared is half the victory. "  
+	> &emsp;&emsp;&emsp;&emsp;- Miguel de Cervantes
