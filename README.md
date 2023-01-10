@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/02d.png) with temperature from -3.97℃ - -2.44℃
+- The weather for Waterloo is Mist ![](https://openweathermap.org/img/wn/50d.png) with temperature from -1.68℃ - -0.06℃
 - Quote of the day:  
-	> "The most creative act you will ever undertake is the act of creating yourself."  
-	> &emsp;&emsp;&emsp;&emsp;- Deepak Chopra
+	> "A man who dares to waste one hour of time has not discovered the value of life."  
+	> &emsp;&emsp;&emsp;&emsp;- Charles Darwin
