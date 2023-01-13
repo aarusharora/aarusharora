@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Fog ![](https://openweathermap.org/img/wn/50d.png) with temperature from 0.87℃ - 1.17℃
+- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from -4.1℃ - -3.41℃
 - Quote of the day:  
-	> "Presents are made for the pleasure of who gives them, not the merits of who receives them."  
-	> &emsp;&emsp;&emsp;&emsp;- Carlos Ruiz Zafon
+	> "When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head."  
+	> &emsp;&emsp;&emsp;&emsp;- Stephen King
