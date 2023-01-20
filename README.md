@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Mist ![](https://openweathermap.org/img/wn/50d.png) with temperature from -0.03℃ - 1℃
+- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from 0.32℃ - 1.46℃
 - Quote of the day:  
-	> "It's better to dance than to march through life."  
-	> &emsp;&emsp;&emsp;&emsp;- Yoko Ono
+	> "Outstanding people have one thing in common: an absolute sense of mission.  "  
+	> &emsp;&emsp;&emsp;&emsp;- Zig Ziglar
