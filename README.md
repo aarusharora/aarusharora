@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from 0.32℃ - 1.46℃
+- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from -2.42℃ - -1.77℃
 - Quote of the day:  
-	> "Outstanding people have one thing in common: an absolute sense of mission.  "  
-	> &emsp;&emsp;&emsp;&emsp;- Zig Ziglar
+	> "The friendship that can cease has never been real. "  
+	> &emsp;&emsp;&emsp;&emsp;- St. Jerome
