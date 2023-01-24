@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Clear ![](https://openweathermap.org/img/wn/01d.png) with temperature from -5.66℃ - -2.92℃
+- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from -2.03℃ - -0.74℃
 - Quote of the day:  
-	> "If the happiness and prosperity of other people depend on you, you have nothing to fear anymore."  
-	> &emsp;&emsp;&emsp;&emsp;- Robert Greene
+	> "The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible."  
+	> &emsp;&emsp;&emsp;&emsp;- Josh Waitzkin
