@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Snow ![](https://openweathermap.org/img/wn/13d.png) with temperature from -2.42℃ - -1.32℃
+- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from -4.08℃ - -2.84℃
 - Quote of the day:  
-	> "How you think is as important as as what you think."  
-	> &emsp;&emsp;&emsp;&emsp;- Unknown
+	> "You are free, and that is why you are lost. "  
+	> &emsp;&emsp;&emsp;&emsp;- Franz Kafka
