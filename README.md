@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from -12.28℃ - -10.02℃
+- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from -12.48℃ - -11.33℃
 - Quote of the day:  
-	> "Know yourself and you will win all battles."  
-	> &emsp;&emsp;&emsp;&emsp;- Sun Tzu
+	> "What you get by achieving your goals is not as important as what you become by achieving your goals."  
+	> &emsp;&emsp;&emsp;&emsp;- Henry David Thoreau
