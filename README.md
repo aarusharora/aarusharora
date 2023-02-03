@@ -5,7 +5,7 @@
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
-- The weather for Waterloo is Clouds ![](https://openweathermap.org/img/wn/04d.png) with temperature from -7.68℃ - -6.17℃
+- The weather for Waterloo is Clear ![](https://openweathermap.org/img/wn/01d.png) with temperature from -19.68℃ - -17.47℃
 - Quote of the day:  
-	> "No one can hurt you without your consent."  
-	> &emsp;&emsp;&emsp;&emsp;- Eleanor Roosevelt
+	> "No one ever said life was fair. Just Eventful."  
+	> &emsp;&emsp;&emsp;&emsp;- Carol Burnett
