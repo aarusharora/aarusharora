@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aarusharora
-- 👀 I’m interested in all stuff related to computer science
-- 🌱 I’m currently learning Distributed systems
-- 💞️ I’m looking to collaborate on almost anything
+- 👀 I’m interested in backend software engineering/distributed systems
+- 🌱 I’m currently learning Airflow
+- 💞️ I’m looking to collaborate on impactful projects
 - 📫 How to reach me - DM me on [Linkedin](https://www.linkedin.com/in/aarusharora789/)
 
 The following information is updated daily through the power of software engineering ->
